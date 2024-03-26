@@ -62,6 +62,5 @@ public class Day02_ConditionalStatements {
         String result = (marks >= 50) ? "Pass" : "Fail";
         System.out.println("Result: " + result);
 
-      
     }
 }
