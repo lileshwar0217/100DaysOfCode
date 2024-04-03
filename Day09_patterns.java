@@ -2,7 +2,7 @@
 // Square hollow pattern
 import java.util.*;
 
-class GeeksForGeeks {
+class Patterns {
 	
 	public static void printPattern(int n)
 	{
