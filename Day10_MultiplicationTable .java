@@ -13,6 +13,5 @@ class Day10_MultiplicationTable {
            
             System.out.println(N + " * " + i + " = " + N * i);
         }
-    }
-    
+    }  
 }
